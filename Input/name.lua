@@ -1,0 +1,1 @@
+return _('FPV_Drone')

@@ -1,0 +1,5 @@
+wave = "Effects/QuadcopterMotorSound"
+inner_radius = 1
+outer_radius = 400
+--direction = {0, 1, 0}
+gain = 1.2
